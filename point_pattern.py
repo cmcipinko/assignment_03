@@ -1,3 +1,9 @@
+yml
+language: python
+python:
+  - "3.5"
+script: nosetests
+
 import math  # I am guessing that you will need to use the math module
 
 """
